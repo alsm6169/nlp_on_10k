@@ -1,0 +1,10 @@
+#python==3.7.7
+pandas==1.0.5
+numpy==1.18.5
+requests==2.24.0
+scikit-learn==0.23.1
+tqdm==4.47.0
+beautifulsoup4==4.9.1
+spacy==2.3.1
+gensim==3.8.0
+ratelimit==2.2.0
