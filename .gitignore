@@ -1,1 +1,4 @@
 *.html
+/downloads/
+.idea/
+.ipynb_checkpoints/
