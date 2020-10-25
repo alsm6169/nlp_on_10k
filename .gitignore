@@ -1,4 +1,6 @@
 *.html
+*.png
+/video/
 /downloads/
 .idea/
 .ipynb_checkpoints/
